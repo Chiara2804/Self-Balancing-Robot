@@ -1,1 +1,1 @@
-# Auto balancing robot
+# Self-balancing Robot
