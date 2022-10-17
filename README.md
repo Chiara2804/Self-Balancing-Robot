@@ -1,4 +1,4 @@
-# Self-balancing Robot
+<img src="README_imgs/github-header-image.png" width="100%"/>
 
 <div>
   <img src="http://ForTheBadge.com/images/badges/built-with-science.svg"/>
